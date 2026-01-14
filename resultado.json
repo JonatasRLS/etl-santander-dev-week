@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nome": "Daniel",
+        "news": [
+            {
+                "description": "Olá Daniel, com investimento sua vida pode mudar muito!"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Jonatas",
+        "news": [
+            {
+                "description": "Olá Jonatas, dinheiro é algo que temos de ter cuidado! investimento é seguro."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nome": "Maria",
+        "news": [
+            {
+                "description": "Olá Maria, sabe aquela viagem da qual você tanto quer ir daqui um tempo? Com investimento é possível!"
+            }
+        ]
+    }
+]
